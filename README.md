@@ -16,19 +16,19 @@
 ----
 # 개인 깃허브
 김태완 
-https://github.com/Manwol770
+https://github.com/Manwol770</br>
 나하나
-https://github.com/hana-nana
+https://github.com/hana-nana</br>
 박은미
-https://github.com/eunmig
+https://github.com/eunmig</br>
 이민지
-https://github.com/happyminjilee
+https://github.com/happyminjilee</br>
 전소현
-https://github.com/Dachaes
+https://github.com/Dachaes</br>
 정원종
-https://github.com/Siabel
+https://github.com/Siabel</br>
 정종욱
-https://github.com/ddideu
+https://github.com/ddideu</br>
 주준형
 https://github.com/Abdulljava
 
