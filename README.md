@@ -26,9 +26,9 @@ https://github.com/Siabel</br>
 정종욱
 https://github.com/ddideu</br>
 주준형
-https://github.com/Abdulljava
+https://github.com/Abdulljava</br>
 차현철
-
+https://github.com/chahyeoncheol</br>
 
 주준형 
  <img src="http://mazandi.herokuapp.com/api?handle={j40605}&theme=warm"/>
